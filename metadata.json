@@ -1,0 +1,7 @@
+{
+  "name": "Internet Rakyat Pekalongan",
+  "description": "Agen Resmi Internet Rakyat Wilayah Kota & Kabupaten Pekalongan - WiFi Rumah Murah Rp100.000/bulan Up To 100Mbps",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

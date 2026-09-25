@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --color-brand-dark: #8B0000;
+  --color-brand-red: #C8102E;
+  --color-brand-crimson: #A50A20;
+  --color-whatsapp: #25D366;
+  --color-whatsapp-hover: #1EBE5D;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: #2D3748;
+  background-color: #F8FAFC;
+  overflow-x: hidden;
+}
